@@ -29,3 +29,6 @@ nbdist/
 ### frontend ###
 npm-debug.*
 src/main/resources/static/
+src/main/resources/assets/etc
+src/main/resources/assets/node
+src/main/resources/assets/node_modules
